@@ -1,4 +1,4 @@
-iimport React from "react";
+import React from "react";
 import {MarketingButton} from "../styles/Button";
 import {Wrapper} from "../styles/Header";
 import {FlexColumnCenter, FlexCenter} from "../styles/Grid";
